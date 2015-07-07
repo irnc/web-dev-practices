@@ -5,3 +5,5 @@ Requires `ruby` and fails with `Error: "ruby" does not exist in the system. Plea
 _Hint: use [RubyInstaller](http://rubyinstaller.org/downloads/) for Windows._
 
 Next one is `Error: "scss-lint" does not exist in the system. Please install "scss-lint" (gem install scss-lint).`
+
+_Obey. [scss-lint](https://github.com/brigade/scss-lint) is a Ruby gem._
